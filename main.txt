@@ -12,8 +12,7 @@
 <fanart></fanart>
 </item>
 
-<title>
-Logan (2017)</title>
+<title>Logan (2017)</title>
 <meta>
 <content>movie</content>
 <imdb>tt3315342</imdb>
