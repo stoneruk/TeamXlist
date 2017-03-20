@@ -1,3 +1,32 @@
+<title>T2 Trainspotting (2017)</title>
+<meta>
+<content>movie</content>
+<imdb>tt2763304</imdb>
+<title>T2 Trainspotting</title>
+<year>2017</year>
+</meta>
+<link>
+<sublink>http://uptobox.com/s6tn58gh5tte</sublink>
+</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMTU2NTA0NDM0MF5BMl5BanBnXkFtZTgwMDMzMTQzMTI@._V1_UX182_CR0,0,182,268_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<title>
+Logan (2017)</title>
+<meta>
+<content>movie</content>
+<imdb>tt3315342</imdb>
+<title>Logan</title>
+<year>2017</year>
+</meta>
+<link>
+<sublink>http://uptobox.com/j4ncxvncmy1s</sublink>
+</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMjI1MjkzMjczMV5BMl5BanBnXkFtZTgwNDk4NjYyMTI@._V1_UX182_CR0,0,182,268_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
 <title>The Edge of Seventeen (2016)</title>
 <meta>
 <content>movie</content>
