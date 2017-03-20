@@ -1,14 +1,14 @@
-<title></title>
+<title>Suicide Squad (2016)</title>
 <meta>
 <content>movie</content>
-<imdb></imdb>
-<title></title>
-<year></year>
+<imdb>tt1386697</imdb>
+<title>Suicide Squad</title>
+<year>2016</year>
 </meta>
 <link>
-<sublink></sublink>
+<sublink>https://drive.google.com/file/d/0B6RWVGv14JpRY25HS2w5WHhVbDA/edit</sublink>
 </link>
-<thumbnail></thumbnail>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMjM1OTMxNzUyM15BMl5BanBnXkFtZTgwNjYzMTIzOTE@._V1_UX182_CR0,0,182,268_AL_.jpg</thumbnail>
 <fanart></fanart>
 </item>
 
