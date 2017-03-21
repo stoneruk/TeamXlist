@@ -1356,6 +1356,20 @@
 <fanart></fanart>
 </item>
 
+<title>Men in Black 3 (2012)</title>
+<meta>
+<content>movie</content>
+<imdb>tt1409024</imdb>
+<title>Men in Black 3</title>
+<year>2012</year>
+</meta>
+<link>
+<sublink>https://docs.google.com/file/d/0BzSgROA-cAvXQTNYdXI2TXBScnc/edit</sublink>
+</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMTU2NTYxODcwMF5BMl5BanBnXkFtZTcwNDk1NDY0Nw@@._V1_UX182_CR0,0,182,268_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
 <title>Lockout (2012)</title>
 <meta>
 <content>movie</content>
