@@ -389,3 +389,129 @@
 <thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BNjYwNTA3MDIyMl5BMl5BanBnXkFtZTYwMjIxNjA3._V1_UX182_CR0,0,182,268_AL_.jpg</thumbnail>
 <fanart></fanart>
 </item>
+
+<title>The Loved Ones (2009)</title>
+<meta>
+<content>movie</content>
+<imdb>tt1316536</imdb>
+<title>The Loved Ones</title>
+<year>2009</year>
+</meta>
+<link>
+<sublink>https://drive.google.com/file/d/0B1_EsiTg9AqxazN2dWRGV1JnS1k/edit</sublink>
+</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMjEzNDQ0MzM0N15BMl5BanBnXkFtZTcwMzA1NDM1Nw@@._V1_UX182_CR0,0,182,268_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<title>Anthropoid (2016)</title>
+<meta>
+<content>movie</content>
+<imdb>tt4190530</imdb>
+<title>Anthropoid</title>
+<year>2016</year>
+</meta>
+<link>
+<sublink>https://drive.google.com/file/d/0B29-8EaeVVi7OWlhR3dZMDlsOGc/edit</sublink>
+</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMjIxNzE0NjY1Nl5BMl5BanBnXkFtZTgwNjYzOTkxOTE@._V1_UX182_CR0,0,182,268_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<title>Mr. Church (2016)</title>
+<meta>
+<content>movie</content>
+<imdb>tt4196848</imdb>
+<title>Mr. Church</title>
+<year>2016</year>
+</meta>
+<link>
+<sublink>https://drive.google.com/file/d/0BypcIEQ73MYwSC00d0xMNnhaZlE/edit</sublink>
+</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMzUyNDA5Njc4NV5BMl5BanBnXkFtZTgwMDI1Nzg4OTE@._V1_UX182_CR0,0,182,268_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<title>Dead Poets Society (1989)</title>
+<meta>
+<content>movie</content>
+<imdb>tt0097165</imdb>
+<title>Dead Poets Society</title>
+<year>1989</year>
+</meta>
+<link>
+<sublink>https://drive.google.com/file/d/0Bx-bWsLy0FM5M0lQdzJfZ05vTG8/edit</sublink>
+</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BOGYwYWNjMzgtNGU4ZC00NWQ2LWEwZjUtMzE1Zjc3NjY3YTU1XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_UX182_CR0,0,182,268_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<title>Café Society (2016)</title>
+<meta>
+<content>movie</content>
+<imdb>tt4513674</imdb>
+<title>Café Society</title>
+<year>2016</year>
+</meta>
+<link>
+<sublink>https://drive.google.com/file/d/0B-uj_AMMLPtRQnUtRE4taENaVWM/edit</sublink>
+</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BNjk1NjY4NjE5N15BMl5BanBnXkFtZTgwMTU0NDg0OTE@._V1_UX182_CR0,0,182,268_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<title>Alice Through the Looking Glass (2016)</title>
+<meta>
+<content>movie</content>
+<imdb>tt2567026</imdb>
+<title>Alice Through the Looking Glass</title>
+<year>2016</year>
+</meta>
+<link>
+<sublink>https://drive.google.com/file/d/0B4Y-jz0iAHb8WWo4MmdYam5Ubjg/edit</sublink>
+</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMTc2NjExMTIyN15BMl5BanBnXkFtZTgwMjg0OTIwODE@._V1_UX182_CR0,0,182,268_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<title>Independence Day: Resurgence (2016)</title>
+<meta>
+<content>movie</content>
+<imdb>tt1628841</imdb>
+<title>Independence Day: Resurgence</title>
+<year>2016</year>
+</meta>
+<link>
+<sublink>https://drive.google.com/file/d/0B3qFbtvZvQ3tLUhPbmdNRmN5QWc/edit</sublink>
+</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMjIyMTg5MTg4OV5BMl5BanBnXkFtZTgwMzkzMjY5NzE@._V1_UX182_CR0,0,182,268_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<title>The Legend of Tarzan (2016)</title>
+<meta>
+<content>movie</content>
+<imdb>tt0918940</imdb>
+<title>The Legend of Tarzan</title>
+<year>2016</year>
+</meta>
+<link>
+<sublink>https://drive.google.com/file/d/0B1pTGSKT4igaR3poZC1sRTA4bXM/edit</sublink>
+</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMzY3OTI0OTcyMF5BMl5BanBnXkFtZTgwNjkxNTAwOTE@._V1_UX182_CR0,0,182,268_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<title>Zoolander 2 (2016)</title>
+<meta>
+<content>movie</content>
+<imdb>tt1608290</imdb>
+<title>Zoolander 2</title>
+<year>2016</year>
+</meta>
+<link>
+<sublink>https://drive.google.com/file/d/0Bw5xNRsU0ngbZGxSczhUX2dRZEk/edit</sublink>
+</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMjI2MjQxNTQzOV5BMl5BanBnXkFtZTgwMDE2MTY2NzE@._V1_UX182_CR0,0,182,268_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>
