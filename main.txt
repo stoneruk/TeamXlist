@@ -1286,20 +1286,6 @@
 <fanart></fanart>
 </item>
 
-<title></title>
-<meta>
-<content>movie</content>
-<imdb></imdb>
-<title></title>
-<year></year>
-</meta>
-<link>
-<sublink>https://docs.google.com/file/d/0B0JiNXihOZ3MX05MV1ZKTEpudFU/edit</sublink>
-</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-
 <title>Terminator 2: Judgment Day (1991)</title>
 <meta>
 <content>movie</content>
