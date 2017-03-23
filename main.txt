@@ -1286,48 +1286,6 @@
 <fanart></fanart>
 </item>
 
-<title>Terminator 2: Judgment Day (1991)</title>
-<meta>
-<content>movie</content>
-<imdb>tt0103064</imdb>
-<title>Terminator 2: Judgment Day</title>
-<year>1991</year>
-</meta>
-<link>
-<sublink></sublink>
-</link>
-<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BZDM2YjYwYWMtMWZlNi00ZDQxLWExMDctMDAzNzQ0OTkzZjljXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_UX182_CR0,0,182,268_AL_.jpg</thumbnail>
-<fanart></fanart>
-</item>
-
-<title>The Smurfs 2 (2013)</title>
-<meta>
-<content>movie</content>
-<imdb>tt2017020</imdb>
-<title>The Smurfs 2</title>
-<year>2013</year>
-</meta>
-<link>
-<sublink>https://docs.google.com/file/d/0B3wD2x94zOQNb19menJyWl9PclE/edit</sublink>
-</link>
-<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BNzVkMDRlYzItOTUyOS00ZmU5LWEyN2EtMWE2YWU4MzBlOTBjXkEyXkFqcGdeQXVyNDQ2MTMzODA@._V1_UY268_CR1,0,182,268_AL_.jpg</thumbnail>
-<fanart></fanart>
-</item>
-
-<title>Cars 2 (2011)</title>
-<meta>
-<content>movie</content>
-<imdb>tt1216475</imdb>
-<title>Cars 2</title>
-<year>2011</year>
-</meta>
-<link>
-<sublink>https://docs.google.com/file/d/0B0lQvnd5fdtIRHBBRmFuZzVOeFk/edit</sublink>
-</link>
-<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMTUzNTc3MTU3M15BMl5BanBnXkFtZTcwMzIxNTc3NA@@._V1_UX182_CR0,0,182,268_AL_.jpg</thumbnail>
-<fanart></fanart>
-</item>
-
 <title>Men in Black (1997)</title>
 <meta>
 <content>movie</content>
@@ -1423,34 +1381,6 @@
 <sublink>https://docs.google.com/file/d/0Bz2TUPWru6J1dzJMc1lXQ3dUNHc/edit</sublink>
 </link>
 <thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BOTI2MjY3MDkzOV5BMl5BanBnXkFtZTgwODQ4NTQ0MDI@._V1_UY268_CR3,0,182,268_AL_.jpg</thumbnail>
-<fanart></fanart>
-</item>
-
-<title>They Live (1988)</title>
-<meta>
-<content>movie</content>
-<imdb>tt0096256</imdb>
-<title>They Live</title>
-<year>1988</year>
-</meta>
-<link>
-<sublink>https://docs.google.com/file/d/0B8Iplw9jHNEqbUtsQTc5cDk4RzQ/edit</sublink>
-</link>
-<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMTQ3MjM3ODU1NV5BMl5BanBnXkFtZTgwMjU3NDU2MTE@._V1_UX182_CR0,0,182,268_AL_.jpg</thumbnail>
-<fanart></fanart>
-</item>
-
-<title>Fast & Furious (2009)</title>
-<meta>
-<content>movie</content>
-<imdb>tt1013752</imdb>
-<title>Fast & Furious</title>
-<year>2009</year>
-</meta>
-<link>
-<sublink>https://docs.google.com/file/d/0B4lPGYdX0wuZbmRaeXZkdlBjRVU/edit</sublink>
-</link>
-<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMTQwNDA2MTg3Nl5BMl5BanBnXkFtZTcwNTg3MzIyMg@@._V1_UY268_CR1,0,182,268_AL_.jpg</thumbnail>
 <fanart></fanart>
 </item>
 
