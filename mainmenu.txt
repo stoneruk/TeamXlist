@@ -1,24 +1,24 @@
 <title>Movies Main</title>
-<link>https://raw.githubusercontent.com/stoneruk/TeamXlist/master/movie_1.txt</link>
+<link>https://raw.githubusercontent.com/stoneruk/TeamXlist/master/movies_1.txt</link>
 <thumbnail>https://www.iconexperience.com/_img/v_collection_png/512x512/shadow/movie.png</thumbnail>
 <fanart></fanart>
 
 <title>Movies cat2 (change)</title>
-<link>https://raw.githubusercontent.com/stoneruk/TeamXlist/master/movie_1.txt</link>
+<link>https://raw.githubusercontent.com/stoneruk/TeamXlist/master/movies_1.txt</link>
 <thumbnail>https://www.iconexperience.com/_img/v_collection_png/512x512/shadow/movie.png</thumbnail>
 <fanart></fanart>
 
 <title>whatever (change)</title>
-<link>https://raw.githubusercontent.com/stoneruk/TeamXlist/master/movie_1.txt</link>
+<link>https://raw.githubusercontent.com/stoneruk/TeamXlist/master/movies_1.txt</link>
 <thumbnail>https://www.iconexperience.com/_img/v_collection_png/512x512/shadow/movie.png</thumbnail>
 <fanart></fanart>
 
 <title>name me (change)</title>
-<link>https://raw.githubusercontent.com/stoneruk/TeamXlist/master/movie_1.txt</link>
+<link>https://raw.githubusercontent.com/stoneruk/TeamXlist/master/movies_1.txt</link>
 <thumbnail>https://www.iconexperience.com/_img/v_collection_png/512x512/shadow/movie.png</thumbnail>
 <fanart></fanart>
 
 <title>can delete me (change)</title>
-<link>https://raw.githubusercontent.com/stoneruk/TeamXlist/master/movie_1.txt</link>
+<link>https://raw.githubusercontent.com/stoneruk/TeamXlist/master/movies_1.txt</link>
 <thumbnail>https://www.iconexperience.com/_img/v_collection_png/512x512/shadow/movie.png</thumbnail>
 <fanart></fanart>
