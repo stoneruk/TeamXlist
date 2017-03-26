@@ -8,17 +8,17 @@
 <thumbnail>https://www.iconexperience.com/_img/v_collection_png/512x512/shadow/movie.png</thumbnail>
 <fanart></fanart>
 
-<title>whatever (change)</title>
+<title>Sports</title>
 <link>https://raw.githubusercontent.com/stoneruk/TeamXlist/master/movies_1.txt</link>
 <thumbnail>https://www.iconexperience.com/_img/v_collection_png/512x512/shadow/movie.png</thumbnail>
 <fanart></fanart>
 
-<title>name me (change)</title>
+<title>Tv</title>
 <link>https://raw.githubusercontent.com/stoneruk/TeamXlist/master/movies_1.txt</link>
 <thumbnail>https://www.iconexperience.com/_img/v_collection_png/512x512/shadow/movie.png</thumbnail>
 <fanart></fanart>
 
-<title>can delete me (change)</title>
+<title>Radio</title>
 <link>https://raw.githubusercontent.com/stoneruk/TeamXlist/master/movies_1.txt</link>
 <thumbnail>https://www.iconexperience.com/_img/v_collection_png/512x512/shadow/movie.png</thumbnail>
 <fanart></fanart>
