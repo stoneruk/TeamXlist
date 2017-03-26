@@ -1,3 +1,8 @@
+<title>iBoy (2017)</title>
+<link>http://www.rainierland.is/?c=movie&m=getlink&id=2705258    </link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BNjQxODM2MDAyM15BMl5BanBnXkFtZTgwODc4MTE0MTI@._V1_UX182_CR0,0,182,268_AL_.jpg</thumbnail>
+<fanart></fanart>
+
 <title>The Snare (2017)</title>
 <link>https://docs.google.com/file/d/0B7-DGaLxBdGNbzR3R2NKR08zVzg/edit</link>
 <thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMTgxODQ5NDM4MV5BMl5BanBnXkFtZTgwMjUyNDAwMTI@._V1_UY268_CR4,0,182,268_AL_.jpg</thumbnail>
@@ -66,6 +71,36 @@
 <title>The Crash (2017)</title>
 <link>https://drive.google.com/file/d/0B3vvOPeztmheTFVoVUxyV1J0VGc/edit</link>
 <thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMzI3OTkwODQxMF5BMl5BanBnXkFtZTgwNzg1MTE4MDI@._V1_UX182_CR0,0,182,268_AL_.jpg</thumbnail>
+<fanart></fanart>
+
+<title>The Great Wall (2016)</title>
+<link>http://www.rainierland.is/?c=movie&m=getlink&id=2699688</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMjA3MjAzOTQxNF5BMl5BanBnXkFtZTgwOTc5OTY1OTE@._V1_UX182_CR0,0,182,268_AL_.jpg</thumbnail>
+<fanart></fanart>
+
+<title>The Darkness (2016)</title>
+<link>http://www.rainierland.is/?c=movie&m=getlink&id=2724050</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMjIxMTg2NjAyMV5BMl5BanBnXkFtZTgwNDE5ODIxODE@._V1_UX182_CR0,0,182,268_AL_.jpg</thumbnail>
+<fanart></fanart>
+
+<title>Morgan (2016)</title>
+<link>http://www.rainierland.is/?c=movie&m=getlink&id=2681386</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMjA1MjYyNDkxN15BMl5BanBnXkFtZTgwMTgxODAwOTE@._V1_UX182_CR0,0,182,268_AL_.jpg</thumbnail>
+<fanart></fanart>
+
+<title>Mother's Day (2016)</title>
+<link>http://www.rainierland.is/?c=movie&m=getlink&id=2682633</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BODYzMjc5NDEzNF5BMl5BanBnXkFtZTgwMzI3ODcyODE@._V1_UX182_CR0,0,182,268_AL_.jpg</thumbnail>
+<fanart></fanart>
+
+<title>Sleepless (2017)</title>
+<link>http://www.rainierland.is/?c=movie&m=getlink&id=2735450</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BNjEwMDAyOTM4OV5BMl5BanBnXkFtZTgwMzc4MjMyMDI@._V1_UX182_CR0,0,182,268_AL_.jpg</thumbnail>
+<fanart></fanart>
+
+<title>Split (2016)</title>
+<link>http://www.rainierland.is/?c=movie&m=getlink&id=2736668</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BZTJiNGM2NjItNDRiYy00ZjY0LTgwNTItZDBmZGRlODQ4YThkL2ltYWdlXkEyXkFqcGdeQXVyMjY5ODI4NDk@._V1_UX182_CR0,0,182,268_AL_.jpg</thumbnail>
 <fanart></fanart>
 
 <title>The Edge of Seventeen (2016)</title>
