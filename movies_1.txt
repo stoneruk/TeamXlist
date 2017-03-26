@@ -1,3 +1,38 @@
+<title>Arsenal (2017)</title>
+<link>https://docs.google.com/file/d/0B-Beveok6VMdemxQX2dlYmZoWWs/edit</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMTEyMzk3ODYzMzdeQTJeQWpwZ15BbWU4MDk0MDc3ODAy._V1_UX182_CR0,0,182,268_AL_.jpg</thumbnail>
+<fanart></fanart>
+
+<title>Tom Clancy's Ghost Recon Wildlands: War Within the Cartel (2017)</title>
+<link>http://streamcloud.eu/ckp58hcam0by.html</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BZjY5NDZhOTktYWMxYS00Yzg1LWFlMjEtYTVmNzk4YWE1MzJhL2ltYWdlXkEyXkFqcGdeQXVyMjQxODI4NzA@._V1_UX182_CR0,0,182,268_AL_.jpg</thumbnail>
+<fanart></fanart>
+
+<title>Borstal (2017)</title>
+<link>http://streamcloud.eu/7itfzagrc1x1.html</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BYmQ1MGY1NDAtODcyMC00NGNmLWJmYjYtMGE4ZWVkNmJhZTAwL2ltYWdlXkEyXkFqcGdeQXVyMzU5NzU5OQ@@._V1_UY268_CR5,0,182,268_AL_.jpg</thumbnail>
+<fanart></fanart>
+
+<title>Attraction (2017)</title>
+<link>http://streamcloud.eu/xyu990dm1p1d.html</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BNzBjNjJjYzctMzg5Yy00YmVhLWEzOTEtMGRmZTNlZjJlNWIwXkEyXkFqcGdeQXVyMjExMzEyNTM@._V1_UY268_CR3,0,182,268_AL_.jpg</thumbnail>
+<fanart></fanart>
+
+<title>Can't Buy My Love (2017)</title>
+<link>http://streamcloud.eu/5ylrwx2164sc.html</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BZjA2OTcyZGQtN2JiNS00M2I3LWJiZWUtNzIwMTAzOTdlYTkxXkEyXkFqcGdeQXVyMjkyNDg0Nzk@._V1_UY268_CR7,0,182,268_AL_.jpg</thumbnail>
+<fanart></fanart>
+
+<title>A Room to Die For (2017)</title>
+<link>http://streamcloud.eu/orjtnoa4iyrv/A.Room.to.Die.For.2017.HDRip.XviD.AC3-EVO.avi.html</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BZGU3NTMwNWItYjEzYS00NGNjLTkzMTUtYzViYjM1YThmOWUwL2ltYWdlXkEyXkFqcGdeQXVyNjc5NzczMDQ@._V1_UY268_CR4,0,182,268_AL_.jpg</thumbnail>
+<fanart></fanart>
+
+<title>The Raking (2017)</title>
+<link>http://streamcloud.eu/vnytqcfixp9q/The.Raking.2017.HDRip.XViD-ETRG.avi.mp4.html</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BNTI1MTEzZDktOTE3MC00NmM3LTgxNGYtMjM4NmJkMjg0MTM2L2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMTAyNzgxMjg@._V1_UY268_CR5,0,182,268_AL_.jpg</thumbnail>
+<fanart></fanart>
+
 <title>Trainspotting (1996)</title>
 <link>https://drive.google.com/file/d/0B7HmV1rABIXxbUtHM2xmSmxOaTQ/edit</link>
 <thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMzA5Zjc3ZTMtMmU5YS00YTMwLWI4MWUtYTU0YTVmNjVmODZhXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_UX182_CR0,0,182,268_AL_.jpg</thumbnail>
