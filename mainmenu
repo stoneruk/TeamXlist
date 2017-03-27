@@ -4,28 +4,29 @@
 <thumbnail>https://www.iconexperience.com/_img/v_collection_png/512x512/shadow/movie.png</thumbnail>
 </dir>
 
-
-<title>Kids</title>
+<dir>
+<name>Kids</name>
 <link>https://raw.githubusercontent.com/stoneruk/TeamXlist/master/kids.txt</link>
 <thumbnail>https://www.iconexperience.com/_img/v_collection_png/512x512/shadow/movie.png</thumbnail>
-<fanart></fanart>
+</dir>
 
-<title>Sports</title>
+<dir>
+<name>Sports</name>
 <link>https://raw.githubusercontent.com/stoneruk/TeamXlist/master/movies_1.txt</link>
 <thumbnail>https://www.iconexperience.com/_img/v_collection_png/512x512/shadow/movie.png</thumbnail>
-<fanart></fanart>
+</dir>
 
-
-<title>TV</title>
+<dir>
+<name>TV</name>
 <link>https://raw.githubusercontent.com/stoneruk/TeamXlist/master/movies_1.txt</link>
 <thumbnail>https://www.iconexperience.com/_img/v_collection_png/512x512/shadow/movie.png</thumbnail>
-<fanart></fanart>
+</dir>
 
-
-<title>Radio</title>
+<dir>
+<name>Radio</name>
 <link>https://raw.githubusercontent.com/stoneruk/TeamXlist/master/movies_1.txt</link>
 <thumbnail>https://www.iconexperience.com/_img/v_collection_png/512x512/shadow/movie.png</thumbnail>
-<fanart></fanart>
+</dir>
 
 
 
