@@ -1,7 +1,9 @@
-<title>Movies Main</title>
+<dir>
+<name>Movies Main</name>
 <link>https://raw.githubusercontent.com/stoneruk/TeamXlist/master/movies_1.txt</link>
 <thumbnail>https://www.iconexperience.com/_img/v_collection_png/512x512/shadow/movie.png</thumbnail>
-<fanart></fanart>
+</dir>
+
 
 <title>Kids</title>
 <link>https://raw.githubusercontent.com/stoneruk/TeamXlist/master/kids.txt</link>
@@ -13,12 +15,18 @@
 <thumbnail>https://www.iconexperience.com/_img/v_collection_png/512x512/shadow/movie.png</thumbnail>
 <fanart></fanart>
 
-<title>Tv</title>
+
+<title>TV</title>
 <link>https://raw.githubusercontent.com/stoneruk/TeamXlist/master/movies_1.txt</link>
 <thumbnail>https://www.iconexperience.com/_img/v_collection_png/512x512/shadow/movie.png</thumbnail>
 <fanart></fanart>
+
 
 <title>Radio</title>
 <link>https://raw.githubusercontent.com/stoneruk/TeamXlist/master/movies_1.txt</link>
 <thumbnail>https://www.iconexperience.com/_img/v_collection_png/512x512/shadow/movie.png</thumbnail>
 <fanart></fanart>
+
+
+
+
