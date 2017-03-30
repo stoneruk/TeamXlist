@@ -1,10 +1,7 @@
-<title>BBC Radio 1</title>
-<link>http://www.bbc.co.uk/radio1?autoplay-livevideo</link>
+<title>test</title>
+<link>http://freeradioplayer.co.uk/</link>
 <thumbnail></thumbnail>
 
-<title>BBC Radio 2</title>
-<link>http://www.bbc.co.uk/radio/player/bbc_radio_two</link>
-<thumbnail></thumbnail>
 
 
 
