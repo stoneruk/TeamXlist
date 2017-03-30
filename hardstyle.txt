@@ -1,0 +1,37 @@
+<title>All</title>
+<link>https://www.youtube.com/user/EuphoricHardStyleZ/videos</link>
+<thumbnail>https://yt3.ggpht.com/-i1kGynJ31Vw/AAAAAAAAAAI/AAAAAAAAAAA/4pRrlr2vlN8/s100-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
+<fanart></fanart>
+
+<title>Retail Releases (Radio & Original Mix)</title>
+<link>https://www.youtube.com/watch?v=VcyQeoghNHk&list=PLnqPGnYxh5wam1USI7QJu18wfDhOkq6er</link>
+<thumbnail>https://yt3.ggpht.com/-i1kGynJ31Vw/AAAAAAAAAAI/AAAAAAAAAAA/4pRrlr2vlN8/s100-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
+<fanart></fanart>
+
+<title>Mixes/Mashups (Several tracks joined)</title>
+<link>https://www.youtube.com/watch?v=AxmgLt_RwOU&list=PLnqPGnYxh5waQ287QBhowUFED7FZo08Tl</link>
+<thumbnail>https://yt3.ggpht.com/-i1kGynJ31Vw/AAAAAAAAAAI/AAAAAAAAAAA/4pRrlr2vlN8/s100-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
+<fanart></fanart>
+
+<title>Previews & Rips (Live/Radio Stream)</title>
+<link>https://www.youtube.com/watch?v=bMf2sLAI9E8&list=PLnqPGnYxh5wYQSGNy-VtyU5987AUwriks</link>
+<thumbnail>https://yt3.ggpht.com/-i1kGynJ31Vw/AAAAAAAAAAI/AAAAAAAAAAA/4pRrlr2vlN8/s100-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
+<fanart></fanart>
+
+<title>Free Releases</title>
+<link>https://www.youtube.com/watch?v=rUPzdIewSos&list=PLnqPGnYxh5wacudw7h0ue4uOAa-urIxHY</link>
+<thumbnail>https://yt3.ggpht.com/-i1kGynJ31Vw/AAAAAAAAAAI/AAAAAAAAAAA/4pRrlr2vlN8/s100-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
+<fanart></fanart>
+
+<title>Radio Edits (Original Edit)</title>
+<link>https://www.youtube.com/watch?v=C221KtGBbxQ&list=PLnqPGnYxh5warrQSfDNaboed-mAGBz19a</link>
+<thumbnail>https://yt3.ggpht.com/-i1kGynJ31Vw/AAAAAAAAAAI/AAAAAAAAAAA/4pRrlr2vlN8/s100-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
+<fanart></fanart>
+
+<title>Full-length (Original Mix)</title>
+<link>https://www.youtube.com/watch?v=YpamAoN13iA&list=PLnqPGnYxh5wYWFG4h526W8IChoTdl-P9N</link>
+<thumbnail>https://yt3.ggpht.com/-i1kGynJ31Vw/AAAAAAAAAAI/AAAAAAAAAAA/4pRrlr2vlN8/s100-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
+<fanart></fanart>
+
+
+

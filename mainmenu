@@ -5,6 +5,12 @@
 </dir>
 
 <dir>
+<name>TV</name>
+<link>https://raw.githubusercontent.com/stoneruk/TeamXlist/master/movies_1.txt</link>
+<thumbnail>https://www.iconexperience.com/_img/v_collection_png/512x512/shadow/movie.png</thumbnail>
+</dir>
+
+<dir>
 <name>Kids</name>
 <link>https://raw.githubusercontent.com/stoneruk/TeamXlist/master/kids.txt</link>
 <thumbnail>https://www.iconexperience.com/_img/v_collection_png/512x512/shadow/movie.png</thumbnail>
@@ -17,14 +23,14 @@
 </dir>
 
 <dir>
-<name>TV</name>
-<link>https://raw.githubusercontent.com/stoneruk/TeamXlist/master/movies_1.txt</link>
-<thumbnail>https://www.iconexperience.com/_img/v_collection_png/512x512/shadow/movie.png</thumbnail>
+<name>EuphoricHardStyleZ</name>
+<link>https://raw.githubusercontent.com/stoneruk/TeamXlist/master/hardstyle.txt</link>
+<thumbnail>https://yt3.ggpht.com/-i1kGynJ31Vw/AAAAAAAAAAI/AAAAAAAAAAA/4pRrlr2vlN8/s100-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
 </dir>
 
 <dir>
 <name>Radio</name>
-<link>https://raw.githubusercontent.com/stoneruk/TeamXlist/master/radio.txt</link>
+<link>https://raw.githubusercontent.com/stoneruk/TeamXlist/master/movies_1.txt</link>
 <thumbnail>https://www.iconexperience.com/_img/v_collection_png/512x512/shadow/movie.png</thumbnail>
 </dir>
 
