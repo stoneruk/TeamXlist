@@ -1,11 +1,36 @@
 <title>BBC Radio 1</title>
 <link>http://www.bbc.co.uk/radio1?autoplay-livevideo</link>
-<thumbnail>http://musically.com/wp-content/uploads/2016/09/1000px-BBC_Radio_1.svg.png</thumbnail>
-
+<thumbnail></thumbnail>
 
 <title>BBC Radio 2</title>
 <link>http://www.bbc.co.uk/radio/player/bbc_radio_two</link>
-<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/BBC_Radio_2.svg/2000px-BBC_Radio_2.svg.png</thumbnail>
+<thumbnail></thumbnail>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 <title></title>
