@@ -3,7 +3,3 @@
 <thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4wKt-jtb68Eq0Rto7M0FVgWYIP2wCiLQXVaDhr4NzlMnvA7lx</thumbnail>
 <fanart></fanart>
 
-<title>TEST</title>
-<link>https://trafficscotland.org/livetrafficcameras/view/?cam=83</link>
-<thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4wKt-jtb68Eq0Rto7M0FVgWYIP2wCiLQXVaDhr4NzlMnvA7lx</thumbnail>
-<fanart></fanart>
