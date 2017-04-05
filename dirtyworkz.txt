@@ -1,5 +1,5 @@
 <title>Week In Review by Dirty Workz</title>
-<link>plugin://plugin.video.youtube/play/?playlist_id=PLqW-xw4e2GrLUxmJpY6vNfUMrrbmG1Tc_</link>
+<plugin>plugin://plugin.video.youtube/playlist/PLqW-xw4e2GrLUxmJpY6vNfUMrrbmG1Tc_/</plugin>
 <thumbnail>https://yt3.ggpht.com/-krs7Db9iNAk/AAAAAAAAAAI/AAAAAAAAAAA/Ue_ZR6RHMlM/s100-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
 <fanart></fanart>
 
