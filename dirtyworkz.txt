@@ -1,9 +1,8 @@
-<item>
+<plugin>
 <name>Week In Review by Dirty Workz</name>
 <link>plugin://plugin.video.youtube/playlist/PLJtitKU0CAehsdcybehbPFHObmWsKtQcY/</link>
 <thumbnail>https://yt3.ggpht.com/-krs7Db9iNAk/AAAAAAAAAAI/AAAAAAAAAAA/Ue_ZR6RHMlM/s100-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
-<fanart></fanart>
-</item>
+</plugin>
 
 
 <title>Wolf Clan - Hard with a touch of Urban</title>
