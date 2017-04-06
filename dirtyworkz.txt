@@ -1,11 +1,4 @@
 <plugin>
-<title>Adam Savages Man Cave Playlist</title>
-<link>plugin://plugin.video.youtube/playlist/PLJtitKU0CAehsdcybehbPFHObmWsKtQcY/</link>
-<thumbnail>https://i.ytimg.com/vi/l9AqYaSRjw0/maxresdefault.jpg</thumbnail>
-</plugin>
-
-
-<plugin>
 <name>Week In Review by Dirty Workz</name>
 <link>plugin://plugin.video.youtube/playlist/PLqW-xw4e2GrLUxmJpY6vNfUMrrbmG1Tc_/</link>
 <thumbnail>https://yt3.ggpht.com/-krs7Db9iNAk/AAAAAAAAAAI/AAAAAAAAAAA/Ue_ZR6RHMlM/s100-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
