@@ -24,8 +24,8 @@
 <thumbnail>https://yt3.ggpht.com/-krs7Db9iNAk/AAAAAAAAAAI/AAAAAAAAAAA/Ue_ZR6RHMlM/s100-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
 <fanart></fanart>
 <plugin>
-</plugin>
 
+</plugin>
 <title>Isaac's Hardstyle Sessions</title>
 <link>plugin://plugin.video.youtube/playlist/PLDCD8491699D1E841/</link>
 <thumbnail>https://yt3.ggpht.com/-krs7Db9iNAk/AAAAAAAAAAI/AAAAAAAAAAA/Ue_ZR6RHMlM/s100-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
